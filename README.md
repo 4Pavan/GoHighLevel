@@ -1,6 +1,12 @@
 This is for flutter_qa_hiring_challenge of Go High Level.
 
-Thank you for this opportunity and love to be part of the success of Go High Level.
+Firstly I would like to thank Go High Level for giving this opportunity.
+Looking forward to be part of a global team, and love to contribute for the success of Go High Level.
+
+I have written 6 tests as follows:
+1 - unit test
+1 - widget test
+4 - integration tests (2 negative & 2 positive)
 
 If you face any issues with the setup journey or while testing the app 
 please do reach out to Pavan. 
