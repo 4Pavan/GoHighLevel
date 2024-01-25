@@ -1,21 +1,10 @@
-# learn_testing
+This is for flutter_qa_hiring_challenge of Go High Level.
 
-A new Flutter project.
+Thank you for this opportunity and love to be part of the success of Go High Level.
 
-## Getting Started
-
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+If you face any issues with the setup journey or while testing the app 
+please do reach out to Pavan. 
+@ 9490132238 or pavanbojja04@gmail.com
 
 Prerequisites for this test
     1. Real device or an emulator should be connected to your IDE.
