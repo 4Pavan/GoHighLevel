@@ -1,0 +1,20 @@
+Prerequisites for this test
+    1. Real device or an emulator should be connected to your IDE.
+    2. Any IDE and install plugins (Dart, Flutter).
+    3. Download flutter sdk from "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.16.8-stable.zip" (ctrl+click let you directly download the file from here)
+    4. and unzip the downloaded file and add the SDK path as follows
+    click on environment variables 
+    click on new below system variables and add
+    FLUTTER_ROOT - %directory of flutter% /flutter
+    and 
+    click on path; click edit; 
+    click new and add %directory of flutter% \flutter\bin 
+    and 
+    move to the top by clicking on move up button
+
+    click new again and add  %directory of flutter% \flutter 
+    and 
+    move to the top by clicking on move up button
+    
+
+ NOTE : you need to follow the above procedure without fail else the following code might not work.
